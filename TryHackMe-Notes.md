@@ -1,5 +1,5 @@
 # Offensive security:
-=> DIRB :
+## dirb :-
   
 -> Used to find hidden pages.
   
