@@ -99,13 +99,13 @@ Eg : 2606:4700:20::681a:be5
 
 -> DNS records come with a TTL (Time To Live) value.
 
-## HTTP:
+# HTTP:
 
 -> HyperText Transfer Protocol
 
 -> It is the set of rules used for commuicating with the web server for transmitting of web page data.
 
-### HTTPS :
+## HTTPS :
 
 -> HTTP Secure
 
